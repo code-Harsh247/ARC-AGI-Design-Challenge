@@ -1,0 +1,27 @@
+# Checkpoints (large model files)
+checkpoints/
+*.pt
+*.pth
+
+# Dataset (large)
+data_repo/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
